@@ -46,4 +46,4 @@
 **Too bad I'm alergic to fur**
 ![image](https://user-images.githubusercontent.com/47578591/113442901-c2adf780-93a5-11eb-9051-0266f168dd10.png)
 
-[RETURN TO TOP](#taorui-wangs-user-page)
+[RETURN TO TOP](https://t2wang.github.io/CSE110-Lab1/#taorui-wangs-user-page)
